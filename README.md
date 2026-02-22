@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Pawar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **C++,DSA and Web Development**
+- 🌱 I’m currently learning **C++,Java,DSA and Web Development**
 
-- 💬 Ask me about **C++,DSA and Web Development**
+- 💬 Ask me about **C++,Java,DSA and Web Development**
 
-- 📫 How to reach me **pacificsiddhesh@gmail.com**
+- 📫 How to reach me **siddheshpawar1196@gmail.com**
 
 - ⚡ Fun fact **I Play Video Games!!!**
 
